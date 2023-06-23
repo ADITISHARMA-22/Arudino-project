@@ -1,1 +1,1 @@
-Led blinker project made with the help of arduino.
+LED blinker project made with the help of arduino.
